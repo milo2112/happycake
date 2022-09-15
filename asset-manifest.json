@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/milo2112/happycake.git/static/css/main.f6022a2e.css",
+    "main.js": "/milo2112/happycake.git/static/js/main.6a4718ab.js",
+    "index.html": "/milo2112/happycake.git/index.html",
+    "main.f6022a2e.css.map": "/milo2112/happycake.git/static/css/main.f6022a2e.css.map",
+    "main.6a4718ab.js.map": "/milo2112/happycake.git/static/js/main.6a4718ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6022a2e.css",
+    "static/js/main.6a4718ab.js"
+  ]
+}
