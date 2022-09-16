@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happycake/static/css/main.f6022a2e.css",
+    "main.js": "/happycake/static/js/main.6a4718ab.js",
+    "index.html": "/happycake/index.html",
+    "main.f6022a2e.css.map": "/happycake/static/css/main.f6022a2e.css.map",
+    "main.6a4718ab.js.map": "/happycake/static/js/main.6a4718ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6022a2e.css",
+    "static/js/main.6a4718ab.js"
+  ]
+}
